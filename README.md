@@ -1,4 +1,5 @@
-# Project Name
+# ProductService
+
 This is a .NET Web API developed using CQRS and Clean Architecture. The purpose of this API is to provide an API that users can perform basic CRUD operations. 
 
 ![CleanArchitecture](https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg)
