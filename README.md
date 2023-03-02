@@ -37,7 +37,7 @@ git clone https://github.com/cansozbir/ProductService.git
 ```
 Change to the project directory
 ```
-cd [repository-name]
+cd ProductService
 ```
 
 Run docker image
